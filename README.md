@@ -229,8 +229,8 @@ VirtualAssistentRZD/
 ### 1. Клонирование репозитория
 
 ```bash
-git clone https://github.com/nezqt3/VirtualAssistentRZD.git
-cd VirtualAssistentRZD
+git clone https://github.com/nezqt3/Locomotive-Depot-RAG-Assistant.git
+cd Locomotive-Depot-RAG-Assistant
 ```
 
 ### 2. Запуск backend
